@@ -48,7 +48,7 @@ Full Stack Web Application similar to financial software that is used in profess
 
 ```bash
 # 1. Clone the bank repository
-git clone https://github.com/pietrzakadrian/bank
+git clone https://github.com/amos-fernandes/bank.git
 
 # 2. Enter the bank directory
 cd bank
